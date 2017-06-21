@@ -35,3 +35,33 @@ http://115.70.5.116:9981/stream/channelid/76230569?ticket=4D1136F4A4778B3D0F6378
 http://115.70.5.116:9981/stream/channelid/1092451904?ticket=9B30C4DABF8DA252C9D59F8CD979A5AB58F20218&profile=matroska
 #EXTINF:-1 logo=”http://115.70.5.116:9981/imagecache/1768″ tvg-id=”6ddab8edcee639c8b463c2e72ce7bed1″,SBS 2
 http://115.70.5.116:9981/stream/channelid/1840831085?ticket=3AEB99C744E4A210644ADE3CF2289DF22295B1F1&profile=matroska
+# beIN SPORTS IPTV
+#EXTM3U
+#EXTINF:-1,BEIN SPORT 1
+http://asno.gcdn.co/bn-sp-1-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://asno.gcdn.co/bn-sp-2-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://asno.gcdn.co/bn-sp-3-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://asno.gcdn.co/bn-sp-4-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://asno.gcdn.co/bn-sp-5-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://asno.gcdn.co/bn-sp-6-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://asno.gcdn.co/bn-sp-7-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://asno.gcdn.co/bn-sp-8-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://asno.gcdn.co/bn-sp-9-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://asno.gcdn.co/bn-sp-10-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 11
+http://asno.gcdn.co/bn-sp-11-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 12
+http://asno.gcdn.co/bn-sp-12-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 13
+http://asno.gcdn.co/bn-sp-13-hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,BEIN SPORT 14 eng
+http://asno.gcdn.co/bn-sp-14-hd/tracks-v1a1/index.m3u8
