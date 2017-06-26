@@ -65,3 +65,14 @@ http://asno.gcdn.co/bn-sp-12-hd/tracks-v1a1/index.m3u8
 http://asno.gcdn.co/bn-sp-13-hd/tracks-v1a1/index.m3u8
 #EXTINF:-1,BEIN SPORT 14 eng
 http://asno.gcdn.co/bn-sp-14-hd/tracks-v1a1/index.m3u8
+# RACING
+#EXTM3U
+
+#EXTINF:-1, Sky Racing 1
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+
+#EXTINF:-1, Sky Racing 2
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+
+#EXTINF:-1, Sky Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8
