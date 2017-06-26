@@ -16,26 +16,8 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 
 # Something
 something
-#EXTM3U
 
-#EXTINF:0,24/7 Comedy Movies
-http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
-#EXTINF:0,24/7 HD Movies 1
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
-#EXTINF:0,24/7 HD Movies 2
-http://93.174.95.125:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620
-#EXTINF:0,24/7 Jackie Chan movies (1979-1990)
-http://93.174.95.125:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835
-#EXTINF:0,24/7 Jackie Chan movies (1991-2008)
-http://93.174.95.125:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797
-#EXTINF:0,24/7 NCIS
-http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
-#EXTINF:0,24/7 Various Movies
-http://93.174.95.125:1935/edge/_definst_/hc992q7x7cz86t9/playlist.m3u8?wowzasessionid=1419873438
-#EXTINF:0,A&E
-http://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:0,ABC 22 HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTM3U
 #EXTINF:0,ABC Family
 http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
 #EXTINF:0,AMC
