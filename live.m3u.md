@@ -18,5 +18,5 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 something
 #EXTM3U
 
-#EXTINF:0,Eurosport 1 uk
-     http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:-1, Fox Sports News
+http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
