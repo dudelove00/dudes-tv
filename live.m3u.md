@@ -18,13 +18,11 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 something
 #EXTM3U
 
-#EXTINF:-1, Fox Sports News
-http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
-
 #EXTINF:-1, ABC Newws 24 Hour
 http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
+
 #EXTINF:-1, Sydney Seven
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master.m3u8
 
-# AU Free to air channels
-AU Free to air channels
+#EXTINF:-1, Fox Sports News
+http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
