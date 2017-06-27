@@ -17,9 +17,12 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 #EXTINF:-1, Racing.com
 https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8
 
-
+url = ''
+li = xbmcgui.ListItem('[COLOR yellow]Western Australia[/COLOR]', iconImage='http://offsite.tv/logos/australia-map.gif')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 #EXTINF:-1, Something
 something
+
 #EXTM3U
 
 #EXTINF:-1, ABC News 24 Hour
