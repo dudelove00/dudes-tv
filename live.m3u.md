@@ -1,7 +1,7 @@
 # dudes-tv
 dudes tv
 
-# EXTINF:-1, RACING
+#EXTINF:-1, RACING
 Racing
 #EXTM3U
 
@@ -14,7 +14,8 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2
 #EXTINF:-1, Sky Thoroughbred Central
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8
 
-# EXTINF:-1, Something
+
+#EXTINF:-1, Something
 something
 #EXTM3U
 
@@ -24,6 +25,22 @@ http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 #EXTINF:-1, Sydney Seven
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master.m3u8
 
+#EXTINF:-1, Melbourne Seven
+https://melbourneseven-i.akamaihd.net/hls/live/263658/MEL1/master.m3u8
+
+#ENTINF:-1, Brisbane Seven
+https://brisbaneseven-i.akamaihd.net/hls/live/263663/BRI1/master.m3u8
+
+#EXTINF:-1, Adelaide Seven
+https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master.m3u8
+
+#EXTINF:-1, Perth Seven
+https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master.m3u8
+
+#EXTINF:-1, Cairns Seven
+https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master.m3u8
+
 #EXTINF:-1, Fox Sports News
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
-#ENTINF:-1, 
+
+
