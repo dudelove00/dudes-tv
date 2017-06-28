@@ -108,9 +108,6 @@ https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8
 #EXTINF:-1, Regional QLD  Flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 
-#EXTINF:-1, UK BT Sports 1
-http://185.142.239.164:3135/BT/1/index.m3u
-
 #EXTINF:-1,
 
 #EXTINF:-1,
