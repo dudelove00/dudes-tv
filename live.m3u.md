@@ -22,6 +22,8 @@ https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8
 #EXTINF:-1, ABC News 24 Hour
 http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 
+#EXTINF:-1,
+
 #EXTINF:-1, CHANNEL SEVEN
 
 #EXTINF:-1, Sydney Seven
@@ -42,6 +44,8 @@ https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master.m3u8
 #EXTINF:-1, Cairns Seven
 https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master.m3u8
 
+#EXTINF:-1,
+
 #EXTINF:-1, 7TWO
 
 #EXTINF:-1, Sydney 7TWO
@@ -61,6 +65,8 @@ https://perthseven-i.akamaihd.net/hls/live/263675/PER2/master.m3u8
 
 #EXTINF:-1, Cairns 7TWO
 https://cairnsseven-i.akamaihd.net/hls/live/263685/CNS2/master.m3u8
+
+#EXTINF:-1,
 
 #EXTINF:-1, 7MATE
 
