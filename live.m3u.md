@@ -1,6 +1,9 @@
 # dudes-tv
 dudes tv
 
+url = ''
+li = xbmcgui.ListItem('[COLOR yellow]Western Australia[/COLOR]
+
 #EXTINF:-1, RACING
 Racing
 #EXTM3U
