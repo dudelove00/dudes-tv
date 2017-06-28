@@ -2,7 +2,6 @@
 dudes tv
 
 #EXTINF:-1, RACING
-Racing
 
 #EXTINF:-1, Sky Racing 1
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
@@ -16,13 +15,7 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 #EXTINF:-1, Racing.com
 https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8
 
-url = ''
-li = xbmcgui.ListItem('[COLOR yellow]Western Australia[/COLOR]', iconImage='http://offsite.tv/logos/australia-map.gif')
-xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
-#EXTINF:-1, Something
-something
-
-#EXTM3U
+#EXTINF:-1, AU FREE TV CHANNELS
 
 #EXTINF:-1, ABC News 24 Hour
 http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
@@ -102,4 +95,5 @@ https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 #EXTINF:-1, Fox Sports News
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
 
-
+#EXTINF:-1, USA
+http://104.245.96.214:8000/get.php?username=Mendez&password=David&type=m3u
