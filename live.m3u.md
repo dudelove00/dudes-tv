@@ -108,7 +108,7 @@ https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8
 #EXTINF:-1, Regional QLD  Flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 
-#EXTINF:-1, USA: USA Network
+#EXTINF:-1, USA Network
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1606.ts
 
 #EXTINF:-1,
