@@ -96,4 +96,4 @@ https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
 
 #EXTINF:-1, USA
-http://104.245.96.214:8000/get.php?username=Mendez&password=David&type=m3u
+http://xc.cobra-iptv.com:25461/get.php?username=Beinexclusive-V2&password=ghO8nBbaHo&type=m3u
