@@ -110,7 +110,7 @@ https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1,
+#EXTINF:-1,http://185.22.78.73:9002/playlist.m3u8
 
 #EXTINF:-1,
 
