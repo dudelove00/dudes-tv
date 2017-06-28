@@ -108,7 +108,8 @@ https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8
 #EXTINF:-1, Regional QLD  Flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, BEin Sports
+http://xc.cobra-iptv.com:25461/get.php?username=Beinexclusive-V2&password=ghO8nBbaHo&type=m3u
 
 #EXTINF:-1,
 
