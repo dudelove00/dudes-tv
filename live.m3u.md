@@ -1,7 +1,7 @@
 # dudes-tv
 dudes tv
 
-#EXTINF:-1, name="[COLOR gold]RACING[/COLOR]"
+#EXTINF:-1, [COLOR gold]RACING[/COLOR]
 
 #EXTINF:-1, Sky Racing 1
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
@@ -17,14 +17,14 @@ https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, AU FREE TV CHANNELS
+#EXTINF:-1, [COLOR green]FREE AUSTRALIAN TV CHANNELS[/COLOR]
 
 #EXTINF:-1, ABC News 24 Hour
 http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, CHANNEL SEVEN
+#EXTINF:-1, [COLOR orange]CHANNEL 7[/COLOR]
 
 #EXTINF:-1, Sydney Seven
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master.m3u8
@@ -144,6 +144,3 @@ http://best-anonymous.eu:8000/live/alberto/alberto/2192.ts
 
 #EXTINF:-1, Fox Sports News
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
-
-#EXTINF:-1, USA
-http://xc.cobra-iptv.com:25461/get.php?username=Beinexclusive-V2&password=ghO8nBbaHo&type=m3u
