@@ -24,7 +24,7 @@ http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, [COLOR orange]CHANNEL 7[/COLOR]
+#EXTINF:-1, [COLOR blue]CHANNEL 7[/COLOR]
 
 #EXTINF:-1, Sydney Seven
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master.m3u8
