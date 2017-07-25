@@ -108,14 +108,8 @@ https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8
 #EXTINF:-1, Regional QLD  Flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 
-#EXTINF:-1, FOX SPORTS 3
-http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1, FOX SPORTS 2
-http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1, FOX SPORTS 1
-http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8 
+#EXTINF:-1,AU | Motor Racing
+http://root-iptv.is-found.org:25461/live/mexican/mexican/10138.ts 
 
 #EXTINF:-1, 
 
