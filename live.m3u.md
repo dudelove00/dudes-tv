@@ -45,16 +45,16 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1, COMMUNITY TV
 
-#EXTINF:-1, C31 MELBOURNE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/31.png" group-title="TV",C31 MELBOURNE
 http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8
 
 #EXTINF:-1, CTV FISHING MELBOURNE
 http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/31.png" group-title="TV",44 ADELAIDE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/44.png" group-title="TV",44 ADELAIDE
 http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8
 
-#EXTINF:-1, WTV PERTH
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/wtv.png" group-title="TV",WEST TV
 http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8
 
 #EXTINF:-1,
@@ -253,7 +253,7 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8
 
 #EXTINF:-1, ELEVEN
 
-#EXTINF:-1, SYDNEY ELEVEN
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/eleven.png?attachauth=ANoY7coZiKCktHyimdzg8HqMfIWknrmmqv8nIzQ5OiRcWurIB9V7ea8NM-7hch7xySQFr0mMZAhd1YnnsMuXIQQ0I2qTlwNpLVOqfvc41JirsAKnKxQtCMPqzAVhjYO0tROQDoXXGIc8a9D5ADmKTaRJRJrP6bN7w7YACe6dEFRyMN37HumL_iGN3-mUHDBdp9OuVFH7ZootJzrCovxHO9R1UAxKZ7bk2Q%3D%3D&attredirects=0" group-title="TV",SYDNEY ELEVEN
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TEN.m3u8
 
 #EXTINF:-1, MELBOURNE ELEVEN
