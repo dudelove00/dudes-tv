@@ -297,8 +297,7 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, SKUFF TV
-http://ii-only-fz.cdn.iinet.net.au/20051/_definst_/skufftvlinear/playlist.m3u8
+#EXTINF:-1, 
 
 #EXTINF:-1,
 
