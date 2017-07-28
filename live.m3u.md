@@ -32,7 +32,7 @@ http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
 #EXTINF:-1, [COLOR green]FREE AUSTRALIAN TV CHANNELS[/COLOR]
 
-#EXTINF:-1, ABC News 24 Hour
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/abcnews24.png" group-title="TV",ABC24
 http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 
 #EXTINF:-1, BLOOMBERG AU
@@ -72,7 +72,7 @@ http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-ab
 
 #EXTINF:-1, [COLOR blue]CHANNEL 7[/COLOR]
 
-#EXTINF:-1, Sydney Seven
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",SYDNEY 7
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master_1500.m3u8
 
 #EXTINF:-1, Melbourne Seven
