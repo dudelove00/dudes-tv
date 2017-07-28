@@ -299,17 +299,38 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ryanhall1209.files.wordpress.com/2016/05/autosport.jpg?w=580&h=280&crop=1" group-title="TV",AutoSport TV mms
 mms://100automoto.tv/100livesport
 
-#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/fight-sports-logo.png",Fight Sport
-http://118.97.183.222:1935/discover/fight/playlist.m3u8
+tvg-logo="https://d19434je80h0ns.cloudfront.net/fetch_logo.jpg" group-title="TV",Fetch TV Movie Trailers
+http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
+
+#EXTINF:0,At the Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+
+#EXTINF:0,MLS Sports
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:0,NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0,1HD Music Television
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png",Fox Sports 505 HD
+http://motorsport.hopto.org:8084/
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png",Fox Sports 506 HD
+http://motorsport.hopto.org:8080
 
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png",Fox Sports 506 HD
 http://motorsport.hopto.org:8080/
 
-#EXTINF:0,Fetch TV Movie Trailers
-http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
+#EXTINF:0,Disney Channel HD
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
 
-#EXTINF:-1,Discovery Channel
-http://46.38.16.194:4022/udp/239.4.0.137:2020
+#EXTINF:-1 
+
+#EXTINF:-1 
+
+#EXTINF:-1,
 
 #EXTINF:-1, 
 
