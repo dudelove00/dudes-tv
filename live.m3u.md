@@ -293,8 +293,11 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:1, 
 
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="TV",Retro Music
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/cz/RETRO.png" group-title="TV",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ryanhall1209.files.wordpress.com/2016/05/autosport.jpg?w=580&h=280&crop=1" group-title="TV",AutoSport TV mms
+mms://100automoto.tv/100livesport
 
 #EXTINF:1, 
 
