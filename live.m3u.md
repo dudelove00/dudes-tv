@@ -299,7 +299,19 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ryanhall1209.files.wordpress.com/2016/05/autosport.jpg?w=580&h=280&crop=1" group-title="TV",AutoSport TV mms
 mms://100automoto.tv/100livesport
 
-#EXTINF:1, 
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/fight-sports-logo.png",Fight Sport
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png",Fox Sports 506 HD
+http://motorsport.hopto.org:8080/
+
+#EXTINF:0,Fetch TV Movie Trailers
+http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://46.38.16.194:4022/udp/239.4.0.137:2020
+
+#EXTINF:-1, 
 
 #EXTINF:-1, 
 
