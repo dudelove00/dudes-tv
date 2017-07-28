@@ -24,6 +24,43 @@ http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 
 #EXTINF:-1,
 
+#EXTINF:-1, COMMUNITY TV
+
+#EXTINF:-1, C31 MELBOURNE
+http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8
+
+#EXTINF:-1, CTV FISHING MELBOURNE
+http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8
+
+#EXTINF:-1, C44 ADELAIDE
+http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8
+
+#EXTINF:-1, WTV PERTH
+http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1, SBS ONE
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+
+#EXTINF:-1, SBS VICELAND
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+
+#EXTINF:-1, SBS FOOD NETWORK
+http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1, [COLOR blue]CHANNEL 7[/COLOR]
 
 #EXTINF:-1, Sydney Seven
@@ -130,6 +167,190 @@ https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master1.m3u8
 https://9nowch9livehls-i.akamaihd.net/hls/live/250963/perth/master1.m3u8
 
 #EXTINF:-1, 
+
+#EXTINF:-1, 9GEM
+
+#EXTINF:-1, SYDNEY GEM
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master1.m3u8
+
+#EXTINF:-1, MELBOURNE GEM
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master1.m3u8
+
+#EXTINF:-1, BRISBANE GEM
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master1.m3u8
+
+#EXTINF:-1, ADELAIDE GEM
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master1.m3u8
+
+#EXTINF:-1, PERTH GEM
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master1.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1, 9G0
+
+#EXTINF:-1, SYDNEY GO
+https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master1.m3u8
+
+#EXTINF:-1, MELBOURNE GO
+https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master1.m3u8
+
+#EXTINF:-1, BRISBANE GO
+https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master1.m3u8
+
+#EXTINF:-1, ADELAIDE GO
+https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master1.m3u8
+
+#EXTINF:-1, PERTH GO
+https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master1.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1, 9LIFE
+
+#EXTINF:-1, SYDNEY 9LIFE
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master1.m3u8
+
+#EXTINF:-1, MELBOURNE 9LIFE
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master1.m3u8
+
+#EXTINF:-1, BRISBANE 9LIFE
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master1.m3u8
+
+#EXTINF:-1, ADELAIDE 9LIFE
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master1.m3u8
+
+#EXTINF:-1, PERTH 9LIFE
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master1.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1, [COLOR purple]CHANNEL 10[/COLOR]
+
+#EXTINF:-1, SYDNEY 10
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
+
+#EXTINF:-1, MELBOURNE 10
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8
+
+#EXTINF:-1, BRISBANE 10
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8
+
+#EXTINF:-1, ADELAIDE 10
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8
+
+#EXTINF:-1, PERTH 10
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1, ELEVEN
+
+#EXTINF:-1, SYDNEY ELEVEN
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TEN.m3u8
+
+#EXTINF:-1, MELBOURNE ELEVEN
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ATV.m3u8
+
+#EXTINF:-1, BRISBANE ELEVEN
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TVQ.m3u8
+
+#EXTINF:-1, ADELAIDE ELEVEN
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ADS.m3u8
+
+#EXTINF:-1, PERTH ELEVEN
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2NEW.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1,ONE
+
+#EXTINF:-1, SYDNEY ONE
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETEN.m3u8
+
+#EXTINF:-1, MELBOURNE ONE
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEATV.m3u8
+
+#EXTINF:-1, BRISBANE ONE
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETVQ.m3u8
+
+#EXTINF:-1, ADELAIDE ONE
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEADS.m3u8
+
+#EXTINF:-1, PERTH ONE
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
 
 #EXTINF:-1,
 
