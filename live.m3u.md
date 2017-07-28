@@ -38,7 +38,8 @@ http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 #EXTINF:-1, BLOOMBERG AU
 http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
 
-#EXTINF:-1, 
+#EXTINF:-1, BLOOMBERG USA
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8 
 
 #EXTINF:-1,
 
