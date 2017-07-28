@@ -291,17 +291,14 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:-1, 
 
-#EXTINF:1, The Edge NZ
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
+#EXTINF:1, 
 
-#EXTINF:1, Retro Music
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="TV",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:1, NASA HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1, 
 
-#EXTINF:-1, Motorsport 7 Channel Australia
-http://motorsport.hopto.org:8080/
+#EXTINF:-1, 
 
 #EXTINF:-1,
 
