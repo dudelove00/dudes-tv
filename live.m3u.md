@@ -75,22 +75,22 @@ http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-ab
 #EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",SYDNEY 7
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master_1500.m3u8
 
-#EXTINF:-1, Melbourne Seven
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",MELBOURNE 7
 https://melbourneseven-i.akamaihd.net/hls/live/263658/MEL1/master_1500.m3u8
 
-#ENTINF:-1, Brisbane Seven
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",BRISBANE 7
 https://brisbaneseven-i.akamaihd.net/hls/live/263663/BRI1/master_1500.m3u8
 
-#EXTINF:-1, Adelaide Seven
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",ADELAIDE 7
 https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master_1500.m3u8
 
-#EXTINF:-1, Perth Seven
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",PERTH 7
 https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master_1500.m3u8
 
-#EXTINF:-1, Cairns Seven
+#EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",CAIRNS 7
 https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master_1500.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",7Two
 
 #EXTINF:-1, 7TWO
 
