@@ -24,9 +24,11 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1, NFL NOW USA
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, FISH TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/playlist.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
 
 #EXTINF:-1,
 
