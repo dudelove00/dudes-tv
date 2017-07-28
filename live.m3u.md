@@ -59,7 +59,7 @@ http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/sbs.png?attachauth=ANoY7cp-TvAbRzOgJFdWLNzL4xXL6qLi3py1X-FcuC6r-HYom-UtsbipIzHHxIP9P3dmqEcULJCLizoKwVaMKbOMon9N86unprQe1DqbPUE46OiuzLk9x4mmtU0RB9Ys0bhN8_j9WY2tOMI39cR7QTcPL4kZBooigP7o3piTWghyH5kSB-1TP_ThqilA1-CI3ddHiNj_UoBlxiTjQDicEqWKZLST7Vvr6g%3D%3D&attredirects=0" group-title="TV",SBS ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/sbs.png?attachauth=ANoY7copBUlsIQeTd1RT5A8wwjQCYm31REtfBebWHrIr0geYyidNVbIyxiGhZi3vsIEfX-5jYFOwz8__MTplUZIwlL3OaUV5S3IUlwNgL81IqmZnxqg7mRDOXyvDbDUxreuIynp5cufmVcfiYxli1edBkOUxKpmX3T6N8n4KHUsT-6x7jFrFU5DAgo8ijS0ErR9328fQTd6dx26MWIoCAlAu6T5xf29R0w%3D%3D&attredirects=0" group-title="TV",SBS ONE
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
 #EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/sbs2.png?attachauth=ANoY7cpJfiUFiO152KecyvEBAz21Ip2-8ca-jN_T6ayV_l9vKUYw3rw90V1kl0jO2lz-MUGdit7xd4aQia-vZWIJnoAT-aErrM4AuBz-5_zaDBqBlDgdhYKO2BZp0yb1xaTYlEomf4rqGRVxirnPQjLx-PvNf9yzD1rr9k35DyP1CwOlVpVEdGA95sqGEFBwlNdY6QIfCAU2hZtk4GxWYY__RILy3O3haQ%3D%3D&attredirects=0" group-title="TV",SBS VICELAND
