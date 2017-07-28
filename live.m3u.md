@@ -88,6 +88,8 @@ https://perthseven-i.akamaihd.net/hls/live/263676/PER3/master_1500.m3u8
 #EXTINF:-1, Cairns 7Mate
 https://cairnsseven-i.akamaihd.net/hls/live/263686/CNS3/master_1500.m3u8
 
+#EXTINF:-1,
+
 #EXTINF:-1, FLIX
 
 #EXTINF:-1, Sydney Flix
@@ -108,20 +110,26 @@ https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master_1500.m3u8
 #EXTINF:-1, Regional QLD  Flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master_1500.m3u8
 
+#EXTINF:-1,
+
 #EXTINF:-1, [COLOR red]CHANNEL 9[/COLOR]
 
 #EXTINF:-1, SYDNEY 9
 https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, MELBOURNE 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, BRISBANE 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250961/brisbane/master1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, ADELAIDE 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, PERTH 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250963/perth/master1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, 
 
 #EXTINF:-1,
 
