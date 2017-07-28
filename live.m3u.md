@@ -51,7 +51,7 @@ http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u
 #EXTINF:-1, CTV FISHING MELBOURNE
 http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8
 
-#EXTINF:-1, C44 ADELAIDE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/31.png" group-title="TV",44 ADELAIDE
 http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8
 
 #EXTINF:-1, WTV PERTH
@@ -90,146 +90,144 @@ https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master_1500.m3u8
 #EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",CAIRNS 7
 https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master_1500.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",7Two
-
 #EXTINF:-1, 7TWO
 
-#EXTINF:-1, Sydney 7TWO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",SYDNEY 7Two
 https://sydneyseven-i.akamaihd.net/hls/live/263631/SYD2/master_1500.m3u8
 
-#EXTINF:-1, Melbourne 7TWO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",MELBOURNE 7Two
 https://melbourneseven-i.akamaihd.net/hls/live/263659-b/MEL2/master_1500.m3u8
 
-#EXTINF:-1, Brisbane 7TWO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",BRISBANE 7Two
 https://brisbaneseven-i.akamaihd.net/hls/live/263664-b/BRI2/master_1500.m3u8
 
-#EXTINF:-1, Adelaide 7TWO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",ADELAIDE 7Two
 https://adelaideseven-i.akamaihd.net/hls/live/263668/ADE2/master_1500.m3u8
 
-#EXTINF:-1, Perth 7TWO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",PERTH 7Two
 https://perthseven-i.akamaihd.net/hls/live/263675/PER2/master_1500.m3u8
 
-#EXTINF:-1, Cairns 7TWO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7TWO.png" group-title="TV",CAIRNS 7Two
 https://cairnsseven-i.akamaihd.net/hls/live/263685/CNS2/master_1500.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, 7MATE
 
-#EXTINF:-1,Sydney 7Mate
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",SYDNEY 7mate
 https://sydneyseven-i.akamaihd.net/hls/live/263632/SYD3/master_1500.m3u8
 
-#EXTINF:-1, Melbourne 7Mate
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",MELBOURNE 7mate
 https://melbourneseven-i.akamaihd.net/hls/live/263661/MEL3/master_1500.m3u8
 
-#EXTINF:-1, Brisbane 7Mate
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",BRISBANE 7mate
 https://brisbaneseven-i.akamaihd.net/hls/live/263665/BRI3/master_1500.m3u8
 
-#EXTINF:-1, Adelaide 7Mate
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",ADELAIDE 7mate
 https://adelaideseven-i.akamaihd.net/hls/live/263669/ADE3/master_1500.m3u8
 
-#EXTINF:-1, Perth 7Mate
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",PERTH 7mate
 https://perthseven-i.akamaihd.net/hls/live/263676/PER3/master_1500.m3u8
 
-#EXTINF:-1, Cairns 7Mate
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7mate.png" group-title="TV",CAIRNS 7mate
 https://cairnsseven-i.akamaihd.net/hls/live/263686/CNS3/master_1500.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, FLIX
 
-#EXTINF:-1, Sydney Flix
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",SYDNEY 7flix
 https://sydneyseven-i.akamaihd.net/hls/live/263634/SYD6/master_1500.m3u8
 
-#EXTINF:-1, Melbourne Flix
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",MELBOURNE 7flix
 https://melbourneseven-i.akamaihd.net/hls/live/263662/MEL6/master_1500.m3u8
 
-#EXTINF:-1,  Brisbane Flix
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",BRISBANE 7flix
 https://brisbaneseven-i.akamaihd.net/hls/live/263666/BRI6/master_1500.m3u8
 
-#EXTINF:-1, Adelaide Flix
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",ADELAIDE 7flix
 https://adelaideseven-i.akamaihd.net/hls/live/263670/ADE6/master_1500.m3u8
 
-#EXTINF:-1, Perth Flix
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",PERTH 7flix
 https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master_1500.m3u8
 
-#EXTINF:-1, Regional QLD  Flix
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/7flix.png" group-title="TV",REGIONAL QLD 7flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master_1500.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, [COLOR red]CHANNEL 9[/COLOR]
 
-#EXTINF:-1, SYDNEY 9
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9.png" group-title="TV",SYDNEY 9
 https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master1.m3u8
 
-#EXTINF:-1, MELBOURNE 9
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9.png" group-title="TV",MELBOURNE 9
 https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master1.m3u8
 
-#EXTINF:-1, BRISBANE 9
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9.png" group-title="TV",BRISBANE 9
 https://9nowch9livehls-i.akamaihd.net/hls/live/250961/brisbane/master1.m3u8
 
-#EXTINF:-1, ADELAIDE 9
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9.png" group-title="TV",ADELAIDE 9
 https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master1.m3u8
 
-#EXTINF:-1, PERTH 9
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9.png" group-title="TV",PERTH 9
 https://9nowch9livehls-i.akamaihd.net/hls/live/250963/perth/master1.m3u8
 
 #EXTINF:-1, 
 
 #EXTINF:-1, 9GEM
 
-#EXTINF:-1, SYDNEY GEM
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Gem.png" group-title="TV",SYDNEY 9Gem
 https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master1.m3u8
 
-#EXTINF:-1, MELBOURNE GEM
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Gem.png" group-title="TV",MELBOURNE 9Gem
 https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master1.m3u8
 
-#EXTINF:-1, BRISBANE GEM
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Gem.png" group-title="TV",BRISBANE 9Gem
 https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master1.m3u8
 
-#EXTINF:-1, ADELAIDE GEM
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Gem.png" group-title="TV",ADELAIDE 9Gem
 https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master1.m3u8
 
-#EXTINF:-1, PERTH GEM
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Gem.png" group-title="TV",PERTH 9Gem
 https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master1.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, 9G0
 
-#EXTINF:-1, SYDNEY GO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Go.png" group-title="TV",SYDNEY 9Go!
 https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master1.m3u8
 
-#EXTINF:-1, MELBOURNE GO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Go.png" group-title="TV",MELBOURNE 9Go!
 https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master1.m3u8
 
-#EXTINF:-1, BRISBANE GO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Go.png" group-title="TV",BRISBANE 9Go!
 https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master1.m3u8
 
-#EXTINF:-1, ADELAIDE GO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Go.png" group-title="TV",ADELAIDE 9Go!
 https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master1.m3u8
 
-#EXTINF:-1, PERTH GO
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/9Go.png" group-title="TV",PERTH 9Go!
 https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master1.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, 9LIFE
 
-#EXTINF:-1, SYDNEY 9LIFE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1463791193837/australia/9Life.png" group-title="TV",SYDNEY 9Life
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master1.m3u8
 
-#EXTINF:-1, MELBOURNE 9LIFE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1463791193837/australia/9Life.png" group-title="TV",MELBOURNE 9Life
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master1.m3u8
 
-#EXTINF:-1, BRISBANE 9LIFE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1463791193837/australia/9Life.png" group-title="TV",BRISBANE 9Life
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master1.m3u8
 
-#EXTINF:-1, ADELAIDE 9LIFE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1463791193837/australia/9Life.png" group-title="TV",ADELAIDE 9Life
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master1.m3u8
 
-#EXTINF:-1, PERTH 9LIFE
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1463791193837/australia/9Life.png" group-title="TV",PERTH 9Life
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master1.m3u8
 
 #EXTINF:-1,
