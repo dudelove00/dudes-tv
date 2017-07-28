@@ -3,6 +3,9 @@ dudes tv
 
 #EXTINF:-1, [COLOR gold]SPORTS[/COLOR]
 
+#EXTINF:-1, Fox Sports News AU
+http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
+
 #EXTINF:-1, Sky Racing 1
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
 
@@ -35,7 +38,8 @@ http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 #EXTINF:-1, BLOOMBERG AU
 http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, C MUSIC TV
+mmsh://streaming.cmusic.tv/cmusic-tv?MSWMExt=.asf
 
 #EXTINF:-1,
 
@@ -63,16 +67,6 @@ http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr
 
 #EXTINF:-1, SBS FOOD NETWORK
 http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
 
 #EXTINF:-1,
 
@@ -303,6 +297,16 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:-1,
 
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1, 
 
 #EXTINF:-1, 
@@ -385,5 +389,3 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, Fox Sports News
-http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
