@@ -305,29 +305,7 @@ http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="TV",NASA
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,Motorsport 7 Channel Australia
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png",Fox Sports 505 HD
-http://motorsport.hopto.org:8084/
-
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png",Fox Sports 506 HD
-http://motorsport.hopto.org:8080/
-
-#EXTINF:0, AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-
-#EXTINF:0, AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-
-#EXTINF:0, AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-
-#EXTINF:0, AFL Classic
-rtmp://204.107.26.230:8086/live/980.high.stream
-
-#EXTINF:0, Fox Movies
-rtmp://$OPT:rtmp-raw=rtmp://110.5.111.62/live/ playpath=mvstarx01 swfUrl=http://miru.akulihat.com/2/player/player.swf live=1 pageUrl=http://miru.akulihat.com/2/index2.php?id=5&title=MOVIE
+<page> video
 
 #EXTINF:-1 
 
