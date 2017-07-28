@@ -30,88 +30,88 @@ http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master_1500.m3u8
 
 #EXTINF:-1, Melbourne Seven
-https://melbourneseven-i.akamaihd.net/hls/live/263658/MEL1/master.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263658/MEL1/master_1500.m3u8
 
 #ENTINF:-1, Brisbane Seven
-https://brisbaneseven-i.akamaihd.net/hls/live/263663/BRI1/master.m3u8
+https://brisbaneseven-i.akamaihd.net/hls/live/263663/BRI1/master_1500.m3u8
 
 #EXTINF:-1, Adelaide Seven
-https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master.m3u8
+https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master_1500.m3u8
 
 #EXTINF:-1, Perth Seven
-https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master.m3u8
+https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master_1500.m3u8
 
 #EXTINF:-1, Cairns Seven
-https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master.m3u8
+https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master_1500.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, 7TWO
 
 #EXTINF:-1, Sydney 7TWO
-https://sydneyseven-i.akamaihd.net/hls/live/263631/SYD2/master.m3u8
+https://sydneyseven-i.akamaihd.net/hls/live/263631/SYD2/master_1500.m3u8
 
 #EXTINF:-1, Melbourne 7TWO
-https://melbourneseven-i.akamaihd.net/hls/live/263659-b/MEL2/master.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263659-b/MEL2/master_1500.m3u8
 
 #EXTINF:-1, Brisbane 7TWO
-https://brisbaneseven-i.akamaihd.net/hls/live/263664-b/BRI2/master.m3u8
+https://brisbaneseven-i.akamaihd.net/hls/live/263664-b/BRI2/master_1500.m3u8
 
 #EXTINF:-1, Adelaide 7TWO
-https://adelaideseven-i.akamaihd.net/hls/live/263668/ADE2/master.m3u8
+https://adelaideseven-i.akamaihd.net/hls/live/263668/ADE2/master_1500.m3u8
 
 #EXTINF:-1, Perth 7TWO
-https://perthseven-i.akamaihd.net/hls/live/263675/PER2/master.m3u8
+https://perthseven-i.akamaihd.net/hls/live/263675/PER2/master_1500.m3u8
 
 #EXTINF:-1, Cairns 7TWO
-https://cairnsseven-i.akamaihd.net/hls/live/263685/CNS2/master.m3u8
+https://cairnsseven-i.akamaihd.net/hls/live/263685/CNS2/master_1500.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1, 7MATE
 
 #EXTINF:-1,Sydney 7Mate
-https://sydneyseven-i.akamaihd.net/hls/live/263632/SYD3/master.m3u8
+https://sydneyseven-i.akamaihd.net/hls/live/263632/SYD3/master_1500.m3u8
 
 #EXTINF:-1, Melbourne 7Mate
-https://melbourneseven-i.akamaihd.net/hls/live/263661/MEL3/master.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263661/MEL3/master_1500.m3u8
 
 #EXTINF:-1, Brisbane 7Mate
-https://brisbaneseven-i.akamaihd.net/hls/live/263665/BRI3/master.m3u8
+https://brisbaneseven-i.akamaihd.net/hls/live/263665/BRI3/master_1500.m3u8
 
 #EXTINF:-1, Adelaide 7Mate
-https://adelaideseven-i.akamaihd.net/hls/live/263669/ADE3/master.m3u8
+https://adelaideseven-i.akamaihd.net/hls/live/263669/ADE3/master_1500.m3u8
 
 #EXTINF:-1, Perth 7Mate
-https://perthseven-i.akamaihd.net/hls/live/263676/PER3/master.m3u8
+https://perthseven-i.akamaihd.net/hls/live/263676/PER3/master_1500.m3u8
 
 #EXTINF:-1, Cairns 7Mate
-https://cairnsseven-i.akamaihd.net/hls/live/263686/CNS3/master.m3u8
+https://cairnsseven-i.akamaihd.net/hls/live/263686/CNS3/master_1500.m3u8
 
 #EXTINF:-1, FLIX
 
 #EXTINF:-1, Sydney Flix
-https://sydneyseven-i.akamaihd.net/hls/live/263634/SYD6/master.m3u8
+https://sydneyseven-i.akamaihd.net/hls/live/263634/SYD6/master_1500.m3u8
 
 #EXTINF:-1, Melbourne Flix
-https://melbourneseven-i.akamaihd.net/hls/live/263662/MEL6/master.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263662/MEL6/master_1500.m3u8
 
 #EXTINF:-1,  Brisbane Flix
-https://brisbaneseven-i.akamaihd.net/hls/live/263666/BRI6/master.m3u8
+https://brisbaneseven-i.akamaihd.net/hls/live/263666/BRI6/master_1500.m3u8
 
 #EXTINF:-1, Adelaide Flix
-https://adelaideseven-i.akamaihd.net/hls/live/263670/ADE6/master.m3u8
+https://adelaideseven-i.akamaihd.net/hls/live/263670/ADE6/master_1500.m3u8
 
 #EXTINF:-1, Perth Flix
-https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8
+https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master_1500.m3u8
 
 #EXTINF:-1, Regional QLD  Flix
-https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
+https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master_1500.m3u8
 
 #EXTINF:-1, [COLOR red]CHANNEL 9[/COLOR]
 
 #EXTINF:-1, SYDNEY 9
-https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
+https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master1.m3u8
 
 #EXTINF:-1,
 
