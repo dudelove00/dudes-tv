@@ -305,8 +305,6 @@ http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="TV",NASA
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-<page> video
-
 #EXTINF:-1 
 
 #EXTINF:-1 
