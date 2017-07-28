@@ -282,19 +282,25 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1,
+#EXTINF:-1, [COLOR yellow]SPORT[/COLOR]
 
-#EXTINF:-1,
+#EXTINF:-1, PAC-12 SPORTS USA
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,
+#EXTINF:-1, FOX SPORTS 1 USA
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,
+#EXTINF:-1, NFL NOW USA
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, EUROSPORT 1 EUROPE
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, FIGHTBOX HD
+http://spi-live.ercdn.net/spi/smil:fightboxhd_2.smil/playlist.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, BIGPOND SPORTS FAN
+mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
 
 #EXTINF:-1,
 
