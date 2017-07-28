@@ -3,7 +3,7 @@ dudes tv
 
 #EXTINF:-1, [COLOR gold]SPORTS[/COLOR]
 
-#EXTINF:-1 tvg-logo="https://www.google.com.au/imgres?imgurl=https%3A%2F%2Fwww.foxtel.com.au%2Fcontent%2Fdam%2Ffoxtel%2Fshared%2Fchannel%2FFSN%2Ffox-sports-news-hero.png&imgrefurl=https%3A%2F%2Fwww.foxtel.com.au%2Fabout%2Fmedia-centre%2Fshareholdings.html&docid=b7ak6NhdzavfqM&tbnid=xQL4_sNiXXui5M%3A&vet=10ahUKEwjxht_Wh6zVAhVrjlQKHabeCJcQMwgmKAAwAA..i&w=600&h=300&bih=612&biw=1366&q=FOX%20SPORTS%20NEWS%20AUSTRALIA%20LOGO&ved=0ahUKEwjxht_Wh6zVAhVrjlQKHabeCJcQMwgmKAAwAA&iact=mrc&uact=8" group-title="TV",FOX SPORTS NEWS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="TV",FOX SPORTS NEWS
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
 
 #EXTINF:-1, Sky Racing 1
