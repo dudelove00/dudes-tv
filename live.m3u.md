@@ -18,10 +18,10 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 #EXTINF:-1 tvg-logo="https://1vq6mt4fkiyf3k4lv63b9l9o-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/racingcomlogo630x368.jpg" group-title="TV",Racing.com
 https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8
 
-#EXTINF:-1, EUROSPORT 1 EUROPE
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qZ0Oa_Sdlqo/WUt-y_AA7hI/AAAAAAAAAc0/phrbuQUkHNk__vYvNIoURN40fpFsFlpogCLcBGAs/s320/eurosport1-hd.jpg" group-title="TV",EUROSPORT 1 EUROPE
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-#EXTINF:-1, NFL NOW USA
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238" group-title="TV",NFL NOW USA
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
 #EXTINF:-1, 
@@ -35,10 +35,10 @@ http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/abcnews24.png" group-title="TV",ABC24
 http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8
 
-#EXTINF:-1, BLOOMBERG AU
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/768354336103600128/AktQ5A17.jpg" group-title="TV",BLOOMBERG AU
 http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
 
-#EXTINF:-1, BLOOMBERG USA
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/bloomberg_tv.jpg" group-title="TV",BLOOMBERG USA
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8 
 
 #EXTINF:-1,
@@ -48,7 +48,7 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/31.png" group-title="TV",C31 MELBOURNE
 http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8
 
-#EXTINF:-1, CTV FISHING MELBOURNE
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/5e/7c/7a/5e7c7a8bd53a72a1b00d28d7ee75fed4.jpg" group-title="TV",CTV FISHING MELBOURNE
 http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.cramer.id.au/australia/44.png" group-title="TV",44 ADELAIDE
@@ -59,13 +59,13 @@ http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, SBS ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/sbs.png?attachauth=ANoY7cp-TvAbRzOgJFdWLNzL4xXL6qLi3py1X-FcuC6r-HYom-UtsbipIzHHxIP9P3dmqEcULJCLizoKwVaMKbOMon9N86unprQe1DqbPUE46OiuzLk9x4mmtU0RB9Ys0bhN8_j9WY2tOMI39cR7QTcPL4kZBooigP7o3piTWghyH5kSB-1TP_ThqilA1-CI3ddHiNj_UoBlxiTjQDicEqWKZLST7Vvr6g%3D%3D&attredirects=0" group-title="TV",SBS ONE
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
-#EXTINF:-1, SBS VICELAND
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/sbs2.png?attachauth=ANoY7cpJfiUFiO152KecyvEBAz21Ip2-8ca-jN_T6ayV_l9vKUYw3rw90V1kl0jO2lz-MUGdit7xd4aQia-vZWIJnoAT-aErrM4AuBz-5_zaDBqBlDgdhYKO2BZp0yb1xaTYlEomf4rqGRVxirnPQjLx-PvNf9yzD1rr9k35DyP1CwOlVpVEdGA95sqGEFBwlNdY6QIfCAU2hZtk4GxWYY__RILy3O3haQ%3D%3D&attredirects=0" group-title="TV",SBS VICELAND
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
-#EXTINF:-1, SBS FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/sbsfood.png?attachauth=ANoY7crBUp0Z_Bht_ZyAWp7wbA35-tshqihUP2zySGUNqyQyKBJXkVzv40kWF0pVm9EuoXHlxiMfrxRW7ulZ52idDKmNExNt84MuU_hrvxGLlxHxWTr_CQuRDAJtugtABkvjapLylMp-ys-Tm_3QNobBKQwo5ewCeKxsKGFTBqtADpp7VGNje5FK2fCB3pP_V4K6A9YghtRsW2dypaL7blZGMYSd2TyjEA%3D%3D&attredirects=0" group-title="TV",SBS FOOD NETWORK
 http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
 #EXTINF:-1,
