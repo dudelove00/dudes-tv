@@ -1,7 +1,7 @@
-# dudes-tv
+# Dudes-TV
 dudes tv
 
-#EXTINF:-1, [COLOR gold] RACING [/COLOR]/
+#EXTINF:-1, [COLOR gold]RACING[/COLOR]/
 
 #EXTINF:-1, Sky Racing 1
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
