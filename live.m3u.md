@@ -108,9 +108,10 @@ https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8
 #EXTINF:-1, Regional QLD  Flix
 https://queenslandseven-i.akamaihd.net/hls/live/263819/QLD6/master.m3u8
 
-#EXTINF:-1,  
+#EXTINF:-1, [COLOR red]CHANNEL 9[/COLOR]
 
-#EXTINF:-1, 
+#EXTINF:-1, SYDNEY 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
 
 #EXTINF:-1,
 
