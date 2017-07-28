@@ -6,16 +6,16 @@ dudes tv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="TV",FOX SPORTS NEWS
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
 
-#EXTINF:-1, Sky Racing 1
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Racing.png/revision/latest?cb=20111111210723" group-title="TV",Sky Racing 1
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
 
-#EXTINF:-1, Sky Racing 2
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SR2/sky-racing-2-colour.png" group-title="TV",Sky Racing 2
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
 
-#EXTINF:-1, Sky Thoroughbred Central
+#EXTINF:-1 tvg-logo="http://www.skyracing.com.au/images/channel_img/thoroughbred_preview.jpg" group-title="TV",Sky Thoroughbred Central
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8
 
-#EXTINF:-1, Racing.com
+#EXTINF:-1 tvg-logo="https://1vq6mt4fkiyf3k4lv63b9l9o-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/racingcomlogo630x368.jpg" group-title="TV",Racing.com
 https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8
 
 #EXTINF:-1, EUROSPORT 1 EUROPE
