@@ -3,7 +3,7 @@ dudes tv
 
 #EXTINF:-1, [COLOR gold]SPORTS[/COLOR]
 
-#EXTINF:-1, Fox Sports News AU
+#EXTINF:-1 tvg-logo="https://www.google.com.au/imgres?imgurl=https%3A%2F%2Fwww.foxtel.com.au%2Fcontent%2Fdam%2Ffoxtel%2Fshared%2Fchannel%2FFSN%2Ffox-sports-news-hero.png&imgrefurl=https%3A%2F%2Fwww.foxtel.com.au%2Fabout%2Fmedia-centre%2Fshareholdings.html&docid=b7ak6NhdzavfqM&tbnid=xQL4_sNiXXui5M%3A&vet=10ahUKEwjxht_Wh6zVAhVrjlQKHabeCJcQMwgmKAAwAA..i&w=600&h=300&bih=612&biw=1366&q=FOX%20SPORTS%20NEWS%20AUSTRALIA%20LOGO&ved=0ahUKEwjxht_Wh6zVAhVrjlQKHabeCJcQMwgmKAAwAA&iact=mrc&uact=8" group-title="TV",FOX SPORTS NEWS
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
 
 #EXTINF:-1, Sky Racing 1
@@ -234,19 +234,19 @@ https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master1.m3u8
 
 #EXTINF:-1, [COLOR purple]CHANNEL 10[/COLOR]
 
-#EXTINF:-1, SYDNEY 10
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473566065916/australia/ten.png" group-title="TV",SYDNEY Ten
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
 
-#EXTINF:-1, MELBOURNE 10
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473566065916/australia/ten.png" group-title="TV",MELBOURNE Ten
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8
 
-#EXTINF:-1, BRISBANE 10
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473566065916/australia/ten.png" group-title="TV",BRISBANE Ten
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8
 
-#EXTINF:-1, ADELAIDE 10
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473566065916/australia/ten.png" group-title="TV",ADELAIDE Ten
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8
 
-#EXTINF:-1, PERTH 10
+#EXTINF:-1 tvg-logo="http://tv.cramer.id.au/_/rsrc/1473566065916/australia/ten.png" group-title="TV",PERTH Ten
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8
 
 #EXTINF:-1,
@@ -256,35 +256,35 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8
 #EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/eleven.png?attachauth=ANoY7coZiKCktHyimdzg8HqMfIWknrmmqv8nIzQ5OiRcWurIB9V7ea8NM-7hch7xySQFr0mMZAhd1YnnsMuXIQQ0I2qTlwNpLVOqfvc41JirsAKnKxQtCMPqzAVhjYO0tROQDoXXGIc8a9D5ADmKTaRJRJrP6bN7w7YACe6dEFRyMN37HumL_iGN3-mUHDBdp9OuVFH7ZootJzrCovxHO9R1UAxKZ7bk2Q%3D%3D&attredirects=0" group-title="TV",SYDNEY ELEVEN
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TEN.m3u8
 
-#EXTINF:-1, MELBOURNE ELEVEN
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/eleven.png?attachauth=ANoY7coZiKCktHyimdzg8HqMfIWknrmmqv8nIzQ5OiRcWurIB9V7ea8NM-7hch7xySQFr0mMZAhd1YnnsMuXIQQ0I2qTlwNpLVOqfvc41JirsAKnKxQtCMPqzAVhjYO0tROQDoXXGIc8a9D5ADmKTaRJRJrP6bN7w7YACe6dEFRyMN37HumL_iGN3-mUHDBdp9OuVFH7ZootJzrCovxHO9R1UAxKZ7bk2Q%3D%3D&attredirects=0" group-title="TV",MELBOURNE ELEVEN
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ATV.m3u8
 
-#EXTINF:-1, BRISBANE ELEVEN
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/eleven.png?attachauth=ANoY7coZiKCktHyimdzg8HqMfIWknrmmqv8nIzQ5OiRcWurIB9V7ea8NM-7hch7xySQFr0mMZAhd1YnnsMuXIQQ0I2qTlwNpLVOqfvc41JirsAKnKxQtCMPqzAVhjYO0tROQDoXXGIc8a9D5ADmKTaRJRJrP6bN7w7YACe6dEFRyMN37HumL_iGN3-mUHDBdp9OuVFH7ZootJzrCovxHO9R1UAxKZ7bk2Q%3D%3D&attredirects=0" group-title="TV",BRISBANE ELEVEN
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2TVQ.m3u8
 
-#EXTINF:-1, ADELAIDE ELEVEN
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/eleven.png?attachauth=ANoY7coZiKCktHyimdzg8HqMfIWknrmmqv8nIzQ5OiRcWurIB9V7ea8NM-7hch7xySQFr0mMZAhd1YnnsMuXIQQ0I2qTlwNpLVOqfvc41JirsAKnKxQtCMPqzAVhjYO0tROQDoXXGIc8a9D5ADmKTaRJRJrP6bN7w7YACe6dEFRyMN37HumL_iGN3-mUHDBdp9OuVFH7ZootJzrCovxHO9R1UAxKZ7bk2Q%3D%3D&attredirects=0" group-title="TV",ADELAIDE ELEVEN
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2ADS.m3u8
 
-#EXTINF:-1, PERTH ELEVEN
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/eleven.png?attachauth=ANoY7coZiKCktHyimdzg8HqMfIWknrmmqv8nIzQ5OiRcWurIB9V7ea8NM-7hch7xySQFr0mMZAhd1YnnsMuXIQQ0I2qTlwNpLVOqfvc41JirsAKnKxQtCMPqzAVhjYO0tROQDoXXGIc8a9D5ADmKTaRJRJrP6bN7w7YACe6dEFRyMN37HumL_iGN3-mUHDBdp9OuVFH7ZootJzrCovxHO9R1UAxKZ7bk2Q%3D%3D&attredirects=0" group-title="TV",PERTH ELEVEN
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SD2NEW.m3u8
 
 #EXTINF:-1,
 
 #EXTINF:-1,ONE
 
-#EXTINF:-1, SYDNEY ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/one.png?attachauth=ANoY7cqMTr_8-pjfZzMqFU8mXI1i4CLdelUsKWR57pPT-FA1yLKzf3fsE1lEeMwCOl5Okagy7m5ZDtTNHwZJq3QmQSNJEjTdJoo3kF--IMBoumgpoiGYfu3Z6YSVlr4kUqtBxxIOv-O3S8uMeDlsccmgF1EQLBBFi8hwxU_SrpmczKG6-Bqyxf-hd3re8886nYhy5fLME6dcN08FlyZKOTG3XVkDX-8xvA%3D%3D&attredirects=0" group-title="TV",SYDNEY ONE
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETEN.m3u8
 
-#EXTINF:-1, MELBOURNE ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/one.png?attachauth=ANoY7cqMTr_8-pjfZzMqFU8mXI1i4CLdelUsKWR57pPT-FA1yLKzf3fsE1lEeMwCOl5Okagy7m5ZDtTNHwZJq3QmQSNJEjTdJoo3kF--IMBoumgpoiGYfu3Z6YSVlr4kUqtBxxIOv-O3S8uMeDlsccmgF1EQLBBFi8hwxU_SrpmczKG6-Bqyxf-hd3re8886nYhy5fLME6dcN08FlyZKOTG3XVkDX-8xvA%3D%3D&attredirects=0" group-title="TV",MELBOURNE ONE
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEATV.m3u8
 
-#EXTINF:-1, BRISBANE ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/one.png?attachauth=ANoY7cqMTr_8-pjfZzMqFU8mXI1i4CLdelUsKWR57pPT-FA1yLKzf3fsE1lEeMwCOl5Okagy7m5ZDtTNHwZJq3QmQSNJEjTdJoo3kF--IMBoumgpoiGYfu3Z6YSVlr4kUqtBxxIOv-O3S8uMeDlsccmgF1EQLBBFi8hwxU_SrpmczKG6-Bqyxf-hd3re8886nYhy5fLME6dcN08FlyZKOTG3XVkDX-8xvA%3D%3D&attredirects=0" group-title="TV",BRISBANE ONE
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONETVQ.m3u8
 
-#EXTINF:-1, ADELAIDE ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/one.png?attachauth=ANoY7cqMTr_8-pjfZzMqFU8mXI1i4CLdelUsKWR57pPT-FA1yLKzf3fsE1lEeMwCOl5Okagy7m5ZDtTNHwZJq3QmQSNJEjTdJoo3kF--IMBoumgpoiGYfu3Z6YSVlr4kUqtBxxIOv-O3S8uMeDlsccmgF1EQLBBFi8hwxU_SrpmczKG6-Bqyxf-hd3re8886nYhy5fLME6dcN08FlyZKOTG3XVkDX-8xvA%3D%3D&attredirects=0" group-title="TV",ADELAIDE ONE
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONEADS.m3u8
 
-#EXTINF:-1, PERTH ONE
+#EXTINF:-1 tvg-logo="https://973941bd-a-54932300-s-sites.googlegroups.com/a/cramer.id.au/tvlogo/australia/one.png?attachauth=ANoY7cqMTr_8-pjfZzMqFU8mXI1i4CLdelUsKWR57pPT-FA1yLKzf3fsE1lEeMwCOl5Okagy7m5ZDtTNHwZJq3QmQSNJEjTdJoo3kF--IMBoumgpoiGYfu3Z6YSVlr4kUqtBxxIOv-O3S8uMeDlsccmgF1EQLBBFi8hwxU_SrpmczKG6-Bqyxf-hd3re8886nYhy5fLME6dcN08FlyZKOTG3XVkDX-8xvA%3D%3D&attredirects=0" group-title="TV",PERTH ONE
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,ONENEW.m3u8
 
 #EXTINF:-1,
