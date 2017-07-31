@@ -24,10 +24,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238" group-title="TV",NFL NOW USA
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
 #EXTINF:-1,
 
 #EXTINF:-1, [COLOR green]FREE AUSTRALIAN TV CHANNELS[/COLOR]
@@ -89,6 +85,8 @@ https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master_1500.m3u8
 
 #EXTINF:0 tvg-id="Seven" tvg-logo="http://tv.cramer.id.au/australia/Seven.png" group-title="TV" group-logo="icon-folder.png",CAIRNS 7
 https://cairnsseven-i.akamaihd.net/hls/live/263684/CNS1/master_1500.m3u8
+
+#EXTINF:-1,
 
 #EXTINF:-1, 7TWO
 
