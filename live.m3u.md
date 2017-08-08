@@ -311,156 +311,112 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1, 
 
-#EXTINF:-1,------------------------- LATINO LOCAL TDT -------------------------
-http://wohuogai.com:58000/live/naser/naser/6726.ts
-#EXTINF:-1,LATINO***A&E
-http://wohuogai.com:58000/live/naser/naser/7172.ts
-#EXTINF:-1,LATINO***AMC
-http://wohuogai.com:58000/live/naser/naser/7124.ts
-#EXTINF:-1,LATINO***Animal Planet
-http://wohuogai.com:58000/live/naser/naser/7167.ts
-#EXTINF:-1,LATINO***AXN HD
-http://wohuogai.com:58000/live/naser/naser/7187.ts
-#EXTINF:-1,LATINO***Azteca 13
-http://wohuogai.com:58000/live/naser/naser/7120.ts
-#EXTINF:-1,LATINO***AZTECA 7
-http://wohuogai.com:58000/live/naser/naser/7125.ts
-#EXTINF:-1,LATINO***AZTECA CINEMA
-http://wohuogai.com:58000/live/naser/naser/7126.ts
-#EXTINF:-1,LATINO***AZTECA MUNDO
-http://wohuogai.com:58000/live/naser/naser/7127.ts
-#EXTINF:-1,LATINO***BOOMERANG
-http://wohuogai.com:58000/live/naser/naser/7128.ts
-#EXTINF:-1,LATINO***Canal 5 HD
-http://wohuogai.com:58000/live/naser/naser/7171.ts
-#EXTINF:-1,LATINO***Canal de la Estrellas
-http://wohuogai.com:58000/live/naser/naser/7122.ts
-#EXTINF:-1,LATINO***CARACOL INT HD
-http://wohuogai.com:58000/live/naser/naser/7123.ts
-#EXTINF:-1,LATINO***CARTOON NETWORK
-http://wohuogai.com:58000/live/naser/naser/7129.ts
-#EXTINF:-1,LATINO***Cinecanal HD
-http://wohuogai.com:58000/live/naser/naser/7173.ts
-#EXTINF:-1,LATINO***CINEMAX
-http://wohuogai.com:58000/live/naser/naser/7168.ts
-#EXTINF:-1,LATINO***Comedy Central HD
-http://wohuogai.com:58000/live/naser/naser/7174.ts
-#EXTINF:-1,LATINO***De Pelicula HD
-http://wohuogai.com:58000/live/naser/naser/7175.ts
-#EXTINF:-1,LATINO***DISCOVERY  HOME
-http://wohuogai.com:58000/live/naser/naser/7130.ts
-#EXTINF:-1,LATINO***Discovery Channel
-http://wohuogai.com:58000/live/naser/naser/7131.ts
-#EXTINF:-1,LATINO***Discovery Civilization
-http://wohuogai.com:58000/live/naser/naser/7132.ts
-#EXTINF:-1,LATINO***Discovery ID
-http://wohuogai.com:58000/live/naser/naser/7133.ts
-#EXTINF:-1,LATINO***Discovery Kids
-http://wohuogai.com:58000/live/naser/naser/7134.ts
-#EXTINF:-1,LATINO***DISCOVERY SCIENCE.
-http://wohuogai.com:58000/live/naser/naser/7135.ts
-#EXTINF:-1,LATINO***Discovery Teather HD
-http://wohuogai.com:58000/live/naser/naser/7176.ts
-#EXTINF:-1,LATINO***Discovery TLC
-http://wohuogai.com:58000/live/naser/naser/7136.ts
-#EXTINF:-1,LATINO***Discovery Turbo
-http://wohuogai.com:58000/live/naser/naser/7137.ts
-#EXTINF:-1,LATINO***DISCOVERY WORLD
-http://wohuogai.com:58000/live/naser/naser/7138.ts
-#EXTINF:-1,LATINO***Disney Channel
-http://wohuogai.com:58000/live/naser/naser/7169.ts
-#EXTINF:-1,LATINO***Disney Junior
-http://wohuogai.com:58000/live/naser/naser/7139.ts
-#EXTINF:-1,LATINO***Disney XD
-http://wohuogai.com:58000/live/naser/naser/7140.ts
-#EXTINF:-1,LATINO***DISTRITO COMEDIA
-http://wohuogai.com:58000/live/naser/naser/7141.ts
-#EXTINF:-1,LATINO***El Gourmet
-http://wohuogai.com:58000/live/naser/naser/7153.ts
-#EXTINF:-1,LATINO***ESPN
-http://wohuogai.com:58000/live/naser/naser/7145.ts
-#EXTINF:-1,LATINO***ESPN 2
-http://wohuogai.com:58000/live/naser/naser/7146.ts
-#EXTINF:-1,LATINO***ESPN 3
-http://wohuogai.com:58000/live/naser/naser/7147.ts
-#EXTINF:-1,LATINO***Fox Action HD
-http://wohuogai.com:58000/live/naser/naser/7188.ts
-#EXTINF:-1,LATINO***Fox Cinema HD
-http://wohuogai.com:58000/live/naser/naser/7178.ts
-#EXTINF:-1,LATINO***FOX CLASSIC
-http://wohuogai.com:58000/live/naser/naser/7143.ts
-#EXTINF:-1,LATINO***Fox HD
-http://wohuogai.com:58000/live/naser/naser/7189.ts
-#EXTINF:-1,LATINO***FOX LIFE
-http://wohuogai.com:58000/live/naser/naser/7144.ts
-#EXTINF:-1,LATINO***Fox Movies HD
-http://wohuogai.com:58000/live/naser/naser/7190.ts
-#EXTINF:-1,LATINO***Fox Series HD
-http://wohuogai.com:58000/live/naser/naser/7177.ts
-#EXTINF:-1,LATINO***Fox Sports
-http://wohuogai.com:58000/live/naser/naser/7149.ts
-#EXTINF:-1,LATINO***Fox Sports 2 HD
-http://wohuogai.com:58000/live/naser/naser/7179.ts
-#EXTINF:-1,LATINO***FX
-http://wohuogai.com:58000/live/naser/naser/7150.ts
-#EXTINF:-1,LATINO***GalaVision HD
-http://wohuogai.com:58000/live/naser/naser/7180.ts
-#EXTINF:-1,LATINO***Glitz
-http://wohuogai.com:58000/live/naser/naser/7151.ts
-#EXTINF:-1,LATINO***Golden Edge
-http://wohuogai.com:58000/live/naser/naser/7152.ts
-#EXTINF:-1,LATINO***Golden HD
-http://wohuogai.com:58000/live/naser/naser/7181.ts
-#EXTINF:-1,LATINO***History HD
-http://wohuogai.com:58000/live/naser/naser/7191.ts
-#EXTINF:-1,LATINO***I-SAT
-http://wohuogai.com:58000/live/naser/naser/7154.ts
-#EXTINF:-1,LATINO***MAS CHIC
-http://wohuogai.com:58000/live/naser/naser/7119.ts
-#EXTINF:-1,LATINO***NatGeo Wild HD
-http://wohuogai.com:58000/live/naser/naser/7192.ts
-#EXTINF:-1,LATINO***NATIONAL GEOGRAPHIC
-http://wohuogai.com:58000/live/naser/naser/7156.ts
-#EXTINF:-1,LATINO***NICK Jr
-http://wohuogai.com:58000/live/naser/naser/7157.ts
-#EXTINF:-1,LATINO***NICK TOONS
-http://wohuogai.com:58000/live/naser/naser/7158.ts
-#EXTINF:-1,LATINO***NICKELODEON
-http://wohuogai.com:58000/live/naser/naser/7159.ts
-#EXTINF:-1,LATINO***RCN HD
-http://wohuogai.com:58000/live/naser/naser/7117.ts
-#EXTINF:-1,LATINO***Space HD
-http://wohuogai.com:58000/live/naser/naser/7182.ts
-#EXTINF:-1,LATINO***STUDIO UNIVERSAL
-http://wohuogai.com:58000/live/naser/naser/7160.ts
-#EXTINF:-1,LATINO***SYFY
-http://wohuogai.com:58000/live/naser/naser/7161.ts
-#EXTINF:-1,LATINO***TBS VERYFUNNY
-http://wohuogai.com:58000/live/naser/naser/7162.ts
-#EXTINF:-1,LATINO***TCM
-http://wohuogai.com:58000/live/naser/naser/7163.ts
-#EXTINF:-1,LATINO***TLnovelas
-http://wohuogai.com:58000/live/naser/naser/7165.ts
-#EXTINF:-1,LATINO***TNT Series HD
-http://wohuogai.com:58000/live/naser/naser/7193.ts
-#EXTINF:-1,LATINO***TOONCAST
-http://wohuogai.com:58000/live/naser/naser/7166.ts
-#EXTINF:-1,LATINO***Tru Tv HD
-http://wohuogai.com:58000/live/naser/naser/7183.ts
-#EXTINF:-1,LATINO***UFC HD
-http://wohuogai.com:58000/live/naser/naser/7148.ts
-#EXTINF:-1,LATINO***Unicable HD
-http://wohuogai.com:58000/live/naser/naser/7184.ts
-#EXTINF:-1,LATINO***UNIMAS HD
-http://wohuogai.com:58000/live/naser/naser/7185.ts
-#EXTINF:-1,LATINO***Universal HD
-http://wohuogai.com:58000/live/naser/naser/7194.ts
-#EXTINF:-1,LATINO***UNIVISION HD
-http://wohuogai.com:58000/live/naser/naser/7186.ts
-#EXTINF:-1,LATINO***Warner HD
-http://wohuogai.com:58000/live/naser/naser/7195.ts
-#EXTINF:-1,LATINO***MTV
-http://wohuogai.com:58000/live/naser/naser/7118.ts
+#EXTINF:-1,------------------------- SPORTS -------------------------
+http://wohuogai.com:58000/live/naser/naser/661.ts
+#EXTINF:-1,SPORTS:Real Madrid tv
+http://wohuogai.com:58000/live/naser/naser/427.ts
+#EXTINF:-1,SPORTS:NFL NOW HD
+http://wohuogai.com:58000/live/naser/naser/426.ts
+#EXTINF:-1,SPORTS:Euro_sport
+http://wohuogai.com:58000/live/naser/naser/433.ts
+#EXTINF:-1,SPORTS:FR: Eurosport
+http://wohuogai.com:58000/live/naser/naser/389.ts
+#EXTINF:-1,SPORTES:IT: RAI SPORT +
+http://wohuogai.com:58000/live/naser/naser/3935.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports 24
+http://wohuogai.com:58000/live/naser/naser/3933.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports 2
+http://wohuogai.com:58000/live/naser/naser/3930.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports 1
+http://wohuogai.com:58000/live/naser/naser/3929.ts
+#EXTINF:-1,SPORTES:IT: FOX SPORT
+http://wohuogai.com:58000/live/naser/naser/3936.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports F1
+http://wohuogai.com:58000/live/naser/naser/3932.ts
+#EXTINF:-1,ES:Movistar Toros TV
+http://wohuogai.com:58000/live/naser/naser/3621.ts
+#EXTINF:-1,ES:Movistar Deportes 2
+http://wohuogai.com:58000/live/naser/naser/4218.ts
+#EXTINF:-1,ES:Movistar Deportes 1
+http://wohuogai.com:58000/live/naser/naser/3623.ts
+#EXTINF:-1,ES:CANAL_FUTBOL HD
+http://wohuogai.com:58000/live/naser/naser/3618.ts
+#EXTINF:-1,SPORTS: PT:Horse Brasil HD
+http://wohuogai.com:58000/live/naser/naser/4273.ts
+#EXTINF:-1,SPORTS: PT:Eurosport1
+http://wohuogai.com:58000/live/naser/naser/4274.ts
+#EXTINF:-1,SPORTS: WWE NETWORK
+http://wohuogai.com:58000/live/naser/naser/4312.ts
+#EXTINF:-1,SPORTS: EN:SPORTSTONIGHT
+http://wohuogai.com:58000/live/naser/naser/4300.ts
+#EXTINF:-1,SPORTS: FR:BeinSport1
+http://wohuogai.com:58000/live/naser/naser/2978.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 10
+http://wohuogai.com:58000/live/naser/naser/2923.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 9
+http://wohuogai.com:58000/live/naser/naser/2922.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 8
+http://wohuogai.com:58000/live/naser/naser/2921.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 7
+http://wohuogai.com:58000/live/naser/naser/2920.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 6
+http://wohuogai.com:58000/live/naser/naser/2919.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 5
+http://wohuogai.com:58000/live/naser/naser/2918.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 4
+http://wohuogai.com:58000/live/naser/naser/2917.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 3
+http://wohuogai.com:58000/live/naser/naser/2916.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 2
+http://wohuogai.com:58000/live/naser/naser/2915.ts
+#EXTINF:-1,SPORTS: AR: beIN Sports 1
+http://wohuogai.com:58000/live/naser/naser/2914.ts
+#EXTINF:-1,SPORTS: ES:BEIN SPORT HD
+http://wohuogai.com:58000/live/naser/naser/3000.ts
+#EXTINF:-1,SPORTS: ES:BEIN LALIGA
+http://wohuogai.com:58000/live/naser/naser/2999.ts
+#EXTINF:-1,SPORTS:Tile Sports 1
+http://wohuogai.com:58000/live/naser/naser/420.ts
+#EXTINF:-1,SPORTS:Tile Sports 2
+http://wohuogai.com:58000/live/naser/naser/421.ts
+#EXTINF:-1,SPORTS:ADSport 1HD
+http://wohuogai.com:58000/live/naser/naser/415.ts
+#EXTINF:-1,SPORTS:ADSport 2HD
+http://wohuogai.com:58000/live/naser/naser/416.ts
+#EXTINF:-1,SPORTS:Superport 1
+http://wohuogai.com:58000/live/naser/naser/422.ts
+#EXTINF:-1,SPORTS:Superport 2
+http://wohuogai.com:58000/live/naser/naser/423.ts
+#EXTINF:-1,SPORTS:Superport 3
+http://wohuogai.com:58000/live/naser/naser/424.ts
+#EXTINF:-1,SPORTS:Superport 4
+http://wohuogai.com:58000/live/naser/naser/425.ts
+#EXTINF:-1,SPORTS:Kombat Sport
+http://wohuogai.com:58000/live/naser/naser/6484.ts
+#EXTINF:-1,SPORTS:OLYMPIC CHANNEL
+http://wohuogai.com:58000/live/naser/naser/4810.ts
+#EXTINF:-1,UK:Sky Sport 1 HD
+http://wohuogai.com:58000/live/naser/naser/7302.ts
+#EXTINF:-1,UK:Sky Sport 2 HD
+http://wohuogai.com:58000/live/naser/naser/7301.ts
+#EXTINF:-1,UK:Sky Sport 3 HD
+http://wohuogai.com:58000/live/naser/naser/7300.ts
+#EXTINF:-1,UK:Sky Sport 4 HD
+http://wohuogai.com:58000/live/naser/naser/7299.ts
+#EXTINF:-1,SPORTS:NL:Eurosport 1_HD
+http://wohuogai.com:58000/live/naser/naser/8986.ts
+#EXTINF:-1,SPORTS:NL:FOX SPORT 1_HD
+http://wohuogai.com:58000/live/naser/naser/8992.ts
+#EXTINF:-1,SPORTS:NL:FOX SPORT 2_HD
+http://wohuogai.com:58000/live/naser/naser/8991.ts
+#EXTINF:-1,SPORTS:NL:FOX SPORT 3_HD
+http://wohuogai.com:58000/live/naser/naser/8990.ts
+#EXTINF:-1,SPORTS:NL:FOX SPORT 4_HD
+http://wohuogai.com:58000/live/naser/naser/8989.ts
+#EXTINF:-1,SPORTS:NL:FOX SPORT 5_HD
+http://wohuogai.com:58000/live/naser/naser/8988.ts
+#EXTINF:-1,SPORTS:NL:FOX SPORT 6_HD
+http://wohuogai.com:58000/live/naser/naser/8987.ts
 
 #EXTINF:-1,
 
