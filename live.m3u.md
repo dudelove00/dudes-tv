@@ -305,6 +305,19 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 
 
+#EXTINF:0, Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://31.204.154.141/live/ pageUrl=http://www.tvonlinestreams.com playpath=azb5adnw4mlioah live=1
+#EXTINF:0, Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://178.33.231.166/aovivo playpath=scoob swfUrl=http://tvguarapa.net/pl/player.swf live=1 pageUrl=http://tvguarapa.net/canais/parceiros/scoob.html
+#EXTINF:0, CARTOON NETWORK (720*480)
+http://103.22.181.87:1935/livetv/CARTOONNETWORK.stream/chengye.m3u8?uttasak,12345
+#EXTINF:0, Ginx
+rtmp://204.107.26.252:8086/live/796.high.stream
+#EXTINF:0, Nickelodeon
+rtmp://live.tvron.ro:1935/live/nickelodeon/nickelodeon
+#EXTINF:0, Pokemon
+rtmp://$OPT:rtmp-raw=rtmp://178.33.231.166/aovivo playpath=pokemon swfUrl=http://tvguarapa.net/pl/player.swf live=1 pageUrl=http://tvguarapa.net/canais/espn/pokemon.html
+
 #EXTINF:-1
 
 #EXTINF:-1
