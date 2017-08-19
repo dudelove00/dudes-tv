@@ -305,6 +305,137 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 
 
+IPTV Sports Playlist: 08-07-2017 
+
+#EXTM3U
+#EXTINF:-1, UK:Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports news
+http://185.142.239.164:3135/News.Sports/index.m3u8
+#EXTINF:-1, UK:BT Sports 1
+http://185.142.239.164:3135/BT/1/index.m3u8
+#EXTINF:-1, UK:BT Sports 2
+http://185.142.239.164:3135/BT/2/index.m3u8
+#EXTINF:-1, BT Sports 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+#EXTINF:-1, UK:BT Espn
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:-1, EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:-1, EURO SPORT 2 HD
+http://185.142.239.164:3135/Euro/2/index.m3u8
+#EXTINF:-1, USA:FOX Sports 1(FS1)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+#EXTINF:-1, USA:FOX Sports 2(FS2)
+http://185.142.239.164:3135/2/FOX/index.m3u8
+#EXTINF:-1, Setanta Sports
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8
+#EXTINF:-1, Premiere Sports
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8
+#EXTINF:-1, Boxing & Wrestling
+http://185.142.239.164:3135/BT/2/index.m3u
+#EXTINF:-1, Ten Sports 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:-1, Ten Sports 2
+http://185.142.239.164:3135/Ten/2/index.m3u8
+#EXTINF:-1, Ten Sports 3
+http://185.142.239.164:3135/Ten/3/index.m3u8
+#EXTINF:-1, NFL Network
+http://185.142.239.164:3135/NFL/Network/index.m3u8
+#EXTINF:-1, ESPN 1
+http://185.142.239.164:3135/Espn/1/index.m3u8
+#EXTINF:-1, ESPN 2
+http://185.142.239.164:3135/Espn/2/index.m3u8
+#EXTINF:-1, PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+#EXTINF:-1, Super 1
+http://185.142.239.164:3135/Super/1/index.m3u8
+#EXTINF:-1, Super 2
+http://185.142.239.164:3135/Super/2/index.m3u8
+#EXTINF:-1, Super 3
+http://185.142.239.164:3135/Super/3/index.m3u8
+#EXTINF:-1, Super 4
+http://185.142.239.164:3135/Super/4/index.m3u8
+
+#EXTINF:-1,ESP 1
+http://109.175.6.68:4936/udp/239.0.1:1234?
+#EXTINF:-1,ESP 2
+http://109.175.6.68:4936/udp/239.0.2:1234?
+#EXTINF:-1,ARENA SPORT 2
+http://109.175.6.67:4936/udp/239.0.1.2:1234?
+#EXTINF:-1,ARENA SPORT 3
+http://109.175.6.67:4936/udp/239.0.1.3:1234?
+#EXTINF:-1,ARENA SPORT 4
+http://109.175.6.67:4936/udp/239.0.1.4:1234?
+#EXTINF:-1,ESP 2
+http://109.175.6.67:4936/udp/239.0.2:1234?
+
+#EXTM3U
+#EXTINF:0,Eurosport 2
+http://195.228.11.88:4080/udp/225.255.255.25:10000
+#EXTINF:0,EURO SPORTS
+http://183.88.212.205:8010/play/a00d
+#EXTINF:0,FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m
+#EXTINF:0,FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n
+#EXTINF:0,FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o
+#EXTINF:0,SKYNET SPORTS HD
+http://183.88.212.205:8010/play/a00r
+#EXTINF:0,SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k
+#EXTINF:0,SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l
+#EXTINF:0,SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a
+#EXTINF:0,SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b
+#EXTINF:0,EURO SPORTS NEWS
+http://183.88.212.205:8010/play/a00g
+#EXTINF:0,FOX SPORTS NEWS
+http://183.88.212.205:8010/play/a022
+#EXTINF:17700,Eurosport
+http://91.224.178.9:5000/11
+
+#EXTM3U
+#EXTINF:-1,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+
+#EXTM3U
+#EXTINF:-1,Tile Sports 1
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,Tile Sports 2
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+
+#EXTM3U
+#EXTINF:-1,Superport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Superport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Superport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Superport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+
 #EXTINF:-1
 
 #EXTINF:-1
