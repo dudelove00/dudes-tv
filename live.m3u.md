@@ -224,12 +224,6 @@ dudes tv
 
 #EXTINF:-1
 
-#EXTINF:-1,IT: Sky Sport 1 HD http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/53.ts
-
-#EXTINF:-1,IT: Sky Sport 3 HD http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/736.ts
-
-#EXTINF:-1,IT: Fox Sports 1 HD http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/52.ts
-
 #EXTINF:-1
 
 #EXTINF:-1
