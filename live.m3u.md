@@ -1,4 +1,4 @@
-dudes tv
+[COLOR gold]Dudes-TV[/COLOR]
 
 #EXTM3U
 
