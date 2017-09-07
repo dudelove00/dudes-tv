@@ -80,6 +80,8 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101305020525|X-Forwarded-For=52.62.247.2
 #EXTINF:-1 tvg-name="013" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020528|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Racing.png/revision/latest?cb=20111111210723" group-title="TV",Sky Racing 1 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+
 #EXTINF:-1 tvg-name="014" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
 http://iptv.matthuisman.nz/au/Sydney/tv.101406020625|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
