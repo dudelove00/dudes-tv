@@ -60,5 +60,4 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101305020520
 #EXTINF:-1 tvg-name="020" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
 http://iptv.matthuisman.nz/au/Sydney/tv.101406020625
 
-#EXTINF:-1 tvg-name="021" tvg-id="tv.101305020522" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SR2/sky-racing-2-colour.png
-http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+#EXTINF:- http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
