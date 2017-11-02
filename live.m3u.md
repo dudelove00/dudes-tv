@@ -14,3 +14,5 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
 #EXTINF:-1, Willow Cricket
 rtmp://$OPT:rtmp-raw=rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15
+#EXTINF:-1,USA |  HBO Zone HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/7144.ts
