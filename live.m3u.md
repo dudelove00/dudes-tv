@@ -10,3 +10,5 @@ https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
 #EXTINF:-1, AU - SKY RACING 2
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+#EXTINF:-1, AU - Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
