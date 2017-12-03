@@ -3,6 +3,7 @@
 Dudes-TV
 
 #EXTINF:-1, [COLOR gold]SPORTS[/COLOR]
+
 #EXTINF:-1, AU - FOX SPORTS NEWS 
 https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
 #EXTINF:-1, AU - SKY RACING 1
@@ -15,6 +16,7 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
 #EXTINF:-1, [COLOR gold]Australian Free TV[/COLOR]
+
 #EXTINF:-1, AU - Channel 7
 https://adelaideseven-i.akamaihd.net/hls/live/263667/ADE1/master.m3u8
 #EXTINF:-1, AU - 7Two
@@ -43,10 +45,12 @@ http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr
 http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
 #EXTINF:-1, [COLOR gold]Others[/COLOR]
+
 #EXTINF:-1, Fetch TV Trailers
 http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
 
 #EXTINF:-1, [COLOR gold]Music[/COLOR]
+
 #EXTINF:-1, CMC Music
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1, Retro Music TV
@@ -63,4 +67,5 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
 #EXTINF:-1, [COLOR gold]US TV Channels[/COLOR]
+
 #EXTINF:-1, 
