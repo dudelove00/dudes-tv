@@ -73,60 +73,191 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:-1, Virgin Music TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
-#EXTINF:-1, [COLOR gold]test channels[/COLOR]
+#EXTINF:-1, [COLOR gold]UK Channels[/COLOR]
 
-#EXTINF:-1,Inferno
-http://46.166.142.124:8000/movie/sara/sara123/3094.mkv
-#EXTINF:-1,Morris From America 2016
-http://46.166.142.124:8000/movie/sara/sara123/3095.mp4
-#EXTINF:-1,Goldstone 2016
-http://46.166.142.124:8000/movie/sara/sara123/3093.avi
-#EXTINF:-1,Genius
-http://46.166.142.124:8000/movie/sara/sara123/3092.avi
-#EXTINF:-1,Cardboard Boxer
-http://46.166.142.124:8000/movie/sara/sara123/3089.mkv
-#EXTINF:-1,Ben Hur 2016
-http://46.166.142.124:8000/movie/sara/sara123/3088.mkv
-#EXTINF:-1,Don't Think Twice
-http://46.166.142.124:8000/movie/sara/sara123/3091.mkv
-#EXTINF:-1,The Secret Of Kells
-http://46.166.142.124:8000/movie/sara/sara123/1849.mkv
-#EXTINF:-1,The Princess And The Frog
-http://46.166.142.124:8000/movie/sara/sara123/1832.mp4
-#EXTINF:-1,The Muppets
-http://46.166.142.124:8000/movie/sara/sara123/1831.mp4
-#EXTINF:-1,The Losers
-http://46.166.142.124:8000/movie/sara/sara123/2175.mp4
-#EXTINF:-1,The Little Prince
-http://46.166.142.124:8000/movie/sara/sara123/1830.mp4
-#EXTINF:-1,The Lego Movie
-http://46.166.142.124:8000/movie/sara/sara123/1829.mp4
-#EXTINF:-1,The Karate Kid (2010)
-http://46.166.142.124:8000/movie/sara/sara123/1828.mp4
-#EXTINF:-1,The Jungle Book
-http://46.166.142.124:8000/movie/sara/sara123/1827.mp4
-#EXTINF:-1,The Incredibles
-http://46.166.142.124:8000/movie/sara/sara123/1826.mp4
-#EXTINF:-1,The Girl With The Dragon Tattoo
-http://46.166.142.124:8000/movie/sara/sara123/2174.mp4
-#EXTINF:-1,The Fighter
-http://46.166.142.124:8000/movie/sara/sara123/2173.mp4
-#EXTINF:-1,The Emperors New Groove
-http://46.166.142.124:8000/movie/sara/sara123/1850.mkv
-#EXTINF:-1,The Change-up
-http://46.166.142.124:8000/movie/sara/sara123/2172.mp4
-#EXTINF:-1,The Amazing Spider-man
-http://46.166.142.124:8000/movie/sara/sara123/2171.mp4
-#EXTINF:-1,The Adjustment Bureau
-http://46.166.142.124:8000/movie/sara/sara123/2170.mp4
-#EXTINF:-1,Ted (2012)
-http://46.166.142.124:8000/movie/sara/sara123/2166.mp4
-#EXTINF:-1,Tangled
-http://46.166.142.124:8000/movie/sara/sara123/1825.mp4
-#EXTINF:-1,Spirited Away
-http://46.166.142.124:8000/movie/sara/sara123/1848.mkv
-#EXTINF:-1,Shrek
-http://46.166.142.124:8000/movie/sara/sara123/1823.mp4
+#EXTINF:-1,BBC One HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2464.ts
+#EXTINF:-1,BBC One
+http://vaders.tv:80/live/dogedaddy/cornolio/39862.ts
+#EXTINF:-1,BBC Two HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2467.ts
+#EXTINF:-1,BBC Two
+http://vaders.tv:80/live/dogedaddy/cornolio/39863.ts
+#EXTINF:-1,BBC Four HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2469.ts
+#EXTINF:-1,BBC Four
+http://vaders.tv:80/live/dogedaddy/cornolio/39864.ts
+#EXTINF:-1,BBC News HD
+http://vaders.tv:80/live/dogedaddy/cornolio/38777.ts
+#EXTINF:-1,BBC News
+http://vaders.tv:80/live/dogedaddy/cornolio/39871.ts
+#EXTINF:-1,Channel 4 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2476.ts
+#EXTINF:-1,Channel 4
+http://vaders.tv:80/live/dogedaddy/cornolio/39865.ts
+#EXTINF:-1,Channel 5 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2477.ts
+#EXTINF:-1,Channel 5
+http://vaders.tv:80/live/dogedaddy/cornolio/39866.ts
+#EXTINF:-1,ITV 1 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2470.ts
+#EXTINF:-1,ITV 1
+http://vaders.tv:80/live/dogedaddy/cornolio/39867.ts
+#EXTINF:-1,ITV 2 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2471.ts
+#EXTINF:-1,ITV 2
+http://vaders.tv:80/live/dogedaddy/cornolio/39868.ts
+#EXTINF:-1,ITV 3 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2472.ts
+#EXTINF:-1,ITV 3
+http://vaders.tv:80/live/dogedaddy/cornolio/39869.ts
+#EXTINF:-1,ITV 4 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2473.ts
+#EXTINF:-1,ITV 4
+http://vaders.tv:80/live/dogedaddy/cornolio/39870.ts
+#EXTINF:-1,ITV Encore HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2475.ts
+#EXTINF:-1,ITV Encore
+http://vaders.tv:80/live/dogedaddy/cornolio/39872.ts
+#EXTINF:-1,Sky 1
+http://vaders.tv:80/live/dogedaddy/cornolio/2573.ts
+#EXTINF:-1,Sky 2
+http://vaders.tv:80/live/dogedaddy/cornolio/2574.ts
+#EXTINF:-1,Sky Arts
+http://vaders.tv:80/live/dogedaddy/cornolio/2575.ts
+#EXTINF:-1,Sky Atlantic
+http://vaders.tv:80/live/dogedaddy/cornolio/2576.ts
+#EXTINF:-1,Sky Living
+http://vaders.tv:80/live/dogedaddy/cornolio/2577.ts
+#EXTINF:-1,Sky News HD
+http://vaders.tv:80/live/dogedaddy/cornolio/39630.ts
+#EXTINF:-1,E4
+http://vaders.tv:80/live/dogedaddy/cornolio/2571.ts
+#EXTINF:-1,More4
+http://vaders.tv:80/live/dogedaddy/cornolio/2572.ts
+#EXTINF:-1,Pick TV
+http://vaders.tv:80/live/dogedaddy/cornolio/2578.ts
+#EXTINF:-1,5USA
+http://vaders.tv:80/live/dogedaddy/cornolio/34211.ts
+#EXTINF:-1,5STAR
+http://vaders.tv:80/live/dogedaddy/cornolio/34212.ts
+#EXTINF:-1,CBS Drama
+http://vaders.tv:80/live/dogedaddy/cornolio/34214.ts
+#EXTINF:-1,CBS Reality
+http://vaders.tv:80/live/dogedaddy/cornolio/34215.ts
+#EXTINF:-1,CBS Action
+http://vaders.tv:80/live/dogedaddy/cornolio/34213.ts
+#EXTINF:-1,Comedy Central UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39642.ts
+#EXTINF:-1,Comedy Central Extra
+http://vaders.tv:80/live/dogedaddy/cornolio/39818.ts
+#EXTINF:-1,Dave
+http://vaders.tv:80/live/dogedaddy/cornolio/34283.ts
+#EXTINF:-1,Home
+http://vaders.tv:80/live/dogedaddy/cornolio/35001.ts
+#EXTINF:-1,Gold
+http://vaders.tv:80/live/dogedaddy/cornolio/35162.ts
+#EXTINF:-1,Eden HD
+http://vaders.tv:80/live/dogedaddy/cornolio/39819.ts
+#EXTINF:-1,Universal Channel
+http://vaders.tv:80/live/dogedaddy/cornolio/35463.ts
+#EXTINF:-1,Syfy UK
+http://vaders.tv:80/live/dogedaddy/cornolio/35661.ts
+#EXTINF:-1,Lifetime UK
+http://vaders.tv:80/live/dogedaddy/cornolio/35748.ts
+#EXTINF:-1,Yesterday
+http://vaders.tv:80/live/dogedaddy/cornolio/35756.ts
+#EXTINF:-1,Drama
+http://vaders.tv:80/live/dogedaddy/cornolio/36174.ts
+#EXTINF:-1,Watch
+http://vaders.tv:80/live/dogedaddy/cornolio/36175.ts
+#EXTINF:-1,Really
+http://vaders.tv:80/live/dogedaddy/cornolio/36176.ts
+#EXTINF:-1,Food Network UK
+http://vaders.tv:80/live/dogedaddy/cornolio/36177.ts
+#EXTINF:-1,Good Food
+http://vaders.tv:80/live/dogedaddy/cornolio/36178.ts
+#EXTINF:-1,Challenge
+http://vaders.tv:80/live/dogedaddy/cornolio/37245.ts
+#EXTINF:-1,Alibi
+http://vaders.tv:80/live/dogedaddy/cornolio/37247.ts
+#EXTINF:-1,TLC UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39028.ts
+#EXTINF:-1,ID UK
+http://vaders.tv:80/live/dogedaddy/cornolio/47372.ts
+#EXTINF:-1,Crime + Investigation UK
+http://vaders.tv:80/live/dogedaddy/cornolio/50557.ts
+#EXTINF:-1,Discovery Channel UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39639.ts
+#EXTINF:-1,Discovery Science UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39817.ts
+#EXTINF:-1,Discovery Turbo
+http://vaders.tv:80/live/dogedaddy/cornolio/39640.ts
+#EXTINF:-1,Discovery History
+http://vaders.tv:80/live/dogedaddy/cornolio/39816.ts
+#EXTINF:-1,Animal Planet UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39641.ts
+#EXTINF:-1,National Geographic UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39029.ts
+#EXTINF:-1,Nat Geo Wild UK
+http://vaders.tv:80/live/dogedaddy/cornolio/72692.ts
+#EXTINF:-1,Boomerang UK
+http://vaders.tv:80/live/dogedaddy/cornolio/37248.ts
+#EXTINF:-1,Cartoon Network UK
+http://vaders.tv:80/live/dogedaddy/cornolio/37249.ts
+#EXTINF:-1,Cartoonito UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52252.ts
+#EXTINF:-1,Nickelodeon UK
+http://vaders.tv:80/live/dogedaddy/cornolio/37250.ts
+#EXTINF:-1,Nick Jr UK
+http://vaders.tv:80/live/dogedaddy/cornolio/37251.ts
+#EXTINF:-1,Nick Jr Too UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52255.ts
+#EXTINF:-1,Nicktoons UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52256.ts
+#EXTINF:-1,CBBC HD
+http://vaders.tv:80/live/dogedaddy/cornolio/37252.ts
+#EXTINF:-1,CBeebies
+http://vaders.tv:80/live/dogedaddy/cornolio/37253.ts
+#EXTINF:-1,Disney Channel UK
+http://vaders.tv:80/live/dogedaddy/cornolio/37254.ts
+#EXTINF:-1,Disney Junior UK
+http://vaders.tv:80/live/dogedaddy/cornolio/37255.ts
+#EXTINF:-1,Disney XD UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52253.ts
+#EXTINF:-1,BabyTV
+http://vaders.tv:80/live/dogedaddy/cornolio/39643.ts
+#EXTINF:-1,Pop UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52257.ts
+#EXTINF:-1,Tiny Pop UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52258.ts
+#EXTINF:-1,Pop Max UK
+http://vaders.tv:80/live/dogedaddy/cornolio/52254.ts
+#EXTINF:-1,H2
+http://vaders.tv:80/live/dogedaddy/cornolio/47860.ts
+#EXTINF:-1,E! UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39814.ts
+#EXTINF:-1,MTV UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39815.ts
+#EXTINF:-1,Fox UK
+http://vaders.tv:80/live/dogedaddy/cornolio/39837.ts
+#EXTINF:-1,Sky 1 HD
+http://vaders.tv:80/live/dogedaddy/cornolio/72667.ts
+#EXTINF:-1,Sky Cinema Drama HD
+http://vaders.tv:80/live/dogedaddy/cornolio/72668.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2743.ts
+#EXTINF:-1,Sky Cinema Greats HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2737.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2738.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://vaders.tv:80/live/dogedaddy/cornolio/39813.ts
+#EXTINF:-1,Sky Cinema Thriller HD
+http://vaders.tv:80/live/dogedaddy/cornolio/2739.ts
+#EXTINF:-1,Global BC
+http://vaders.tv:80/live/dogedaddy/cornolio/2749.ts
+
 
 
 
