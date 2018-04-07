@@ -75,5 +75,12 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 
 #EXTINF:-1, [COLOR gold]test channels[/COLOR]
 
-
+#EXTINF:-1,Extreme Sports
+acestream://23a8375600995ebc3ad0d6a3266af71dbf9ec423
+#EXTINF:-1,Fast and FunBox HD
+acestream://461fc95efeb8688a2d8b5c7614906be4ba572e49
+#EXTINF:-1,FightBox HD
+acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93
+#EXTINF:-1,Motorsport
+acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16
 
