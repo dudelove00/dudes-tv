@@ -258,7 +258,8 @@ http://vaders.tv:80/live/dogedaddy/cornolio/2739.ts
 #EXTINF:-1,Global BC
 http://vaders.tv:80/live/dogedaddy/cornolio/2749.ts
 
-
+#EXTINF:-1,wwe
+http://159.89.5.141:8000/live/Ahmed2017/BEIN19832/971.ts
 
 
 
