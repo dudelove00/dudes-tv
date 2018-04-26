@@ -79,5 +79,5 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 
 #EXTINF:-1, [COLOR RED]******TEST ONLY DONT USE******[/COLOR]
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="-",
+#EXTINF:-1 tvg-name="02" tvg-id="ABC" tvg-logo="",
 http://null
