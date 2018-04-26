@@ -77,3 +77,7 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:-1, Virgin Music TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
+#EXTINF:-1, [COLOR RED]******TEST ONLY DONT USE******[/COLOR]
+
+#EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://github.com/dudelove00/Logos/blob/master/1200px-Seven_Network_logo.svg.png",Channel 7
+https://live-sevennetwork.akamaized.net/hls/live/573765/ADE1/master.m3u8
