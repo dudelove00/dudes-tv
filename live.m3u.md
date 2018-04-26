@@ -79,5 +79,5 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 
 #EXTINF:-1, [COLOR RED]******TEST ONLY DONT USE******[/COLOR]
 
-#EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://github.com/dudelove00/Logos/blob/master/1200px-Seven_Network_logo.svg.png",Channel 7
-https://live-sevennetwork.akamaized.net/hls/live/573765/ADE1/master.m3u8
+#EXTINF:-1 tvg-name="016" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
