@@ -139,3 +139,5 @@ http://142.44.137.22:8080/live/j/j/969.ts
 http://142.44.137.22:8080/live/j/j/968.ts
 #EXTINF:-1,HBO SIGNATURE HD
 http://142.44.137.22:8080/live/j/j/962.ts
+#EXTINF:-1,BBC ONE UK HD
+http://mlsh.co:2086/live/chris22/chris22/30910.ts
