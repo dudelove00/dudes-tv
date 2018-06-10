@@ -2,6 +2,21 @@
 
 Dudes-TV
 
+#EXTINF:-1, [COLOR gold]SPORTS[/COLOR]
+
+#EXTINF:-1, AU - FOX SPORTS NEWS 
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+#EXTINF:-1, AU - SKY RACING 1
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+#EXTINF:-1, AU - SKY RACING 2
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+#EXTINF:-1, AU - Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+#EXTINF:-1, AU - Racing.com
+https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master.m3u8
+#EXTINF:-1, Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
 #EXTINF:-1, [COLOR gold]Australian Free TV[/COLOR]
 
 #EXTINF:-1, AU - Channel 7
@@ -37,23 +52,6 @@ http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-ab
 
 #EXTINF:-1, AU - ABC NEWS 24
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
-
-#EXTINF:-1, [COLOR gold]SPORTS[/COLOR]
-
-#EXTINF:-1, AU - FOX SPORTS NEWS 
-https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
-#EXTINF:-1, AU - SKY RACING 1
-http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
-#EXTINF:-1, AU - SKY RACING 2
-http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
-#EXTINF:-1, AU - Thoroughbred Central
-http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
-#EXTINF:-1, AU - Racing.com
-https://live-sevennetwork.akamaized.net/hls/live/573753/RAC/master.m3u8
-#EXTINF:-1, Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
-
 
 #EXTINF:-1, [COLOR gold]Trailers[/COLOR]
 
