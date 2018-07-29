@@ -103,8 +103,6 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:-1, Music Choice Throwback
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
 
-#EXTINF:-1, [COLOR RED]******TEST ONLY DONT USE******[/COLOR]
-
 #EXTINF:-1, [COLOR gold]***** Movies from 2000 *****[/COLOR]
 #EXTCPlayListM3U::M3U
 #EXTINF:0,American Psycho
@@ -973,3 +971,6 @@ http://dl20.mihanpix.com/sr1/user1/96/5/Veer.Zaara.2004.720p.Ganool.TehMovies.mk
 http://dl20.mihanpix.com/sr1/user1/96/5/Veer.Zaara.2004.1080p.5.1CH.Ganool.TehMovies.mkv
 #EXTINF:0,With Blood on My Hands: Pusher II
 http://dl20.mihanpix.com/94/95/5/Pusher.2.2004.720p.Tehmovies.biz.mkv
+
+#EXTINF:-1, [COLOR RED]******TEST ONLY DONT USE******[/COLOR]
+
